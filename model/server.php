@@ -1,7 +1,5 @@
 <?php
 
-use \Crypto;
-
 class Server extends Model {
 
 	function __construct() {
